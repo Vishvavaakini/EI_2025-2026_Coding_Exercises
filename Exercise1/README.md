@@ -18,6 +18,15 @@ Each pattern includes:
 ## 📝 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/vishvavaakini/designPatterns.git
+   git clone https://github.com/vishvavaakinii/EI_2025-2026_Coding_Exercises.git
+   ```
+---
 
+## Tech Stack
+Java 20.0.2
+
+## Resources
+- https://refactoring.guru/design-patterns
+- https://www.geeksforgeeks.org/system-design/software-design-patterns
+- https://medium.com/javarevisited/design-patterns-for-beginners-with-java-examples-4f32c8e5b994
  
